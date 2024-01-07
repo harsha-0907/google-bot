@@ -5,7 +5,7 @@ import telebot
 import google_api_search
 import datetime
 
-API_KEY = "6148432373:AAEqpEvBD4oD6dyT8Vc00PY2cf8uPbEzsK0"
+API_KEY = "YOUR_API_KEY"
 user_list = []
 feedbacK_list = []
 max_threads = 10
